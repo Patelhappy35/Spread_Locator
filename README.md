@@ -79,6 +79,7 @@ Feel free to explore the dashboard and dataset.
 ## 👩‍💻 Author
 
 **Happy Patel**
+
 Python | Excel | SQL | Power BI | Data Analytics
 
 Mathematics & Advanced Statistics Project
